@@ -1,4 +1,4 @@
-﻿using StackExchange.Redis
+﻿using StackExchange.Redis而我热无
 namespace Blog.Core.Common
 {
     public class RedisCacheManager : IRedisCacheManager
