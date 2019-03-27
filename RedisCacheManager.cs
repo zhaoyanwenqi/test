@@ -1,6 +1,6 @@
 ﻿using StackExchange.Redis:
 namespace Blog.Core.Common
-{
+{ew   GetEw
     public class RedisCacheManager : IRedisCacheManager
     {
 
