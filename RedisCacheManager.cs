@@ -1,4 +1,4 @@
-﻿using StackExchange.Redis而我热无
+﻿using StackExchange.Redis:
 namespace Blog.Core.Common
 {
     public class RedisCacheManager : IRedisCacheManager
