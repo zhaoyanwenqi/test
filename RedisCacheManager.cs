@@ -1,4 +1,4 @@
-﻿ 
+
         private readonly string redisConnenctionString;
 
         public volatile ConnectionMultiplexer redisConnection;
